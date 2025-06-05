@@ -16,7 +16,7 @@ git clone http://github.com/GdR-DEPHY/DEPHY-SCM
 git clone https://github.com/GdR-DEPHY/DEPHY-MNH
 ```
 
-- htexplo pour le tuning :
+- High Tune Explorer pour le tuning: [more details in install-htexplo.md](./install-htexplo.md)
 ```shell
 svn checkout http://svn.lmd.jussieu.fr/HighTune/trunk HighTune
 ```
