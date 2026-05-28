@@ -57,3 +57,9 @@ git clone https://github.com/ecmwf-ifs/ecrad
 git clone https://gitlab.com/tropics/objects
 ```
 
+- htrdr pour le rayonnement 3D :
+```shell
+git clone git://git.meso-star.com/star-build.git
+cd star-build
+make BUILD=src/rad-apps/htrdr_0.12.sh PREFIX=../htrdr-0.12/ install
+```
