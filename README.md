@@ -52,5 +52,8 @@ git clone https://github.com/UMR-CNRM/PHYEX
 git clone https://github.com/ecmwf-ifs/ecrad
 ```
 
-
+- objects pour la détection d'objets : [more details in install-objects.md](./install-objects.md)
+```shell
+git clone https://gitlab.com/tropics/objects
+```
 
